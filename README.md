@@ -5,3 +5,7 @@
 #### [0x00-TypeScript](./0x00-TypeScript)
 
 - Directory to learn about [Typescript](https://www.typescriptlang.org/) and its similarities and differences with Javascript.
+
+#### [0x01-Webpack](./0x01-Webpack)
+
+- Directory to learn about [Webpack](https://webpack.js.org/) and how to set it up for a project.
