@@ -16,7 +16,7 @@ maxAssetSize: 1000000,
 maxEntrypointSize: 1000000
 },
 output: {
-filename: "[name]bundle.js",
+filename: "[name].bundle.js",
 path: path.resolve(__dirname, "public")
 },
 devtool: 'inline-source-map',
