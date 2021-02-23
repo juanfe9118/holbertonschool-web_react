@@ -9,3 +9,7 @@
 #### [0x01-Webpack](./0x01-Webpack)
 
 - Directory to learn about [Webpack](https://webpack.js.org/) and how to set it up for a project.
+
+#### [0x02-react_intro](./0x02-react_intro)
+
+- Directory to take the first steps in [React](https://reactjs.org/).
